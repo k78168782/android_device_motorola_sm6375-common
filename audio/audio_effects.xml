@@ -46,12 +46,6 @@
         <!--DOLBY GAME-->
         <library name="gamedap" path="libswgamedap.so"/>
         <!--DOLBY END-->
-        <!--DOLBY VQE-->
-        <library name="vqe" path="libswvqe.so"/>
-        <!--DOLBY END-->
-        <!--Spatial Audio-->
-        <library name="spatializer" path="libspatialaudio.so"/>
-        <!--Spatial Audio-->
         <!--Viper4Android FX-->
         <library name="v4a_re" path="libv4a_re.so"/>
         <!--Viper4Android FX-->
@@ -83,12 +77,6 @@
         <!--DOLBY GAME-->
         <effect name="gamedap" library="gamedap" uuid="3783c334-d3a0-4d13-874f-0032e5fb80e2"/>
         <!--DOLBY END-->
-        <!--DOLBY VQE-->
-        <effect name="vqe" library="vqe" uuid="64a0f614-7fa4-48b8-b081-d59dc954616f"/>
-        <!--DOLBY END-->
-        <!--Spatial Audio-->
-        <effect name="spatializer" library="spatializer" uuid="cc4677de-ff72-11eb-9a03-0242ac130003"/>
-        <!--Spatial Audio-->
         <!--Viper4Android FX-->
         <effect name="v4a_standard_re" library="v4a_re" uuid="90380da3-8536-4744-a6a3-5731970e640f"/>
         <!--Viper4Android FX-->
