@@ -95,6 +95,8 @@ on post-fs-data
 
 on early-boot
     start vendor.sensors
+    # Wait for ADSP RPC device (SM6375) before dependent camera/audio services
+    wait /dev/adsprpc-smd 2
 
 on boot
     write /dev/cpuset/audio-app/cpus 1-2

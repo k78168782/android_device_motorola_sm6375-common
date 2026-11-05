@@ -7,6 +7,7 @@
 <resources>
     <!-- Whether device has screen with higher aspect ratio -->
     <bool name="config_haveHigherAspectRatioScreen">true</bool>
+<<<<<<< HEAD
 
     <!-- Defines the actions shown in advanced reboot submenu -->
     <string-array name="config_restartActionsList">
@@ -16,4 +17,6 @@
         <item>restart_bootloader</item>
         <item>restart_fastboot</item>
      </string-array>
+=======
+>>>>>>> 4a81a03 (sm6375-common: fastbootd is now enabled by default)
 </resources>

@@ -25,9 +25,7 @@ index 894956d..e7fba97 100644
          <uses-library android:name="qti-telephony-utils"/>
          <uses-library android:name="ims-ext-common"/>
      </application>
--</manifest>
-\ No newline at end of file
-+</manifest>
+ </manifest>
 -- 
 2.49.0
 
