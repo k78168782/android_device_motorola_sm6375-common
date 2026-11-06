@@ -52,9 +52,6 @@
         <!--Spatial Audio-->
         <library name="spatializer" path="libspatialaudio.so"/>
         <!--Spatial Audio-->
-        <!--Viper4Android FX-->
-        <library name="v4a_re" path="libv4a_re.so"/>
-        <!--Viper4Android FX-->
     </libraries>
     <effects>
         <effect name="bassboost" library="qcbassboost" uuid="23aca180-44bd-11e2-bcfd-0800200c9a66"/>
